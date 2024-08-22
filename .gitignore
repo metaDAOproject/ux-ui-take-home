@@ -1,0 +1,5 @@
+node_modules
+.vscode/launch.json
+.env*
+.history
+.DS_Store
